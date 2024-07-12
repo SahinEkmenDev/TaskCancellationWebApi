@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancelationWebApi", "TaskCancelationWebApi\TaskCancelationWebApi.csproj", "{17BCC3AB-0B47-48C4-B52C-36091CD02C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForeachApp", "ParallelForeachApp\ParallelForeachApp.csproj", "{5636653E-7EE3-42F3-A534-7D786076546C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BCC3AB-0B47-48C4-B52C-36091CD02C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BCC3AB-0B47-48C4-B52C-36091CD02C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BCC3AB-0B47-48C4-B52C-36091CD02C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BCC3AB-0B47-48C4-B52C-36091CD02C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5636653E-7EE3-42F3-A534-7D786076546C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5636653E-7EE3-42F3-A534-7D786076546C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5636653E-7EE3-42F3-A534-7D786076546C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5636653E-7EE3-42F3-A534-7D786076546C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E38B4B2-6474-4E40-8B3F-282515EBE78B}
+	EndGlobalSection
+EndGlobal
